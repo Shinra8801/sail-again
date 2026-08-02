@@ -17,8 +17,8 @@ title: "漕ぎだせアゲイン"
 #email: your-email@example.com
 description: >
   レトロPCに関する最近の情報公開手段について書き記しています。
-baseurl: "/sail-again" # the subpath of your site, e.g. /blog
-url: "https://shinra8801.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shinra8801
 #github_username:  jekyll
 
