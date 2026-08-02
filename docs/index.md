@@ -5,16 +5,16 @@
 layout: home
 ---
 
-# Search Engine Index Test
+# Static Website Index Verification
 
-このサイトは、GitHub Pages 上で公開したページが Google や Bing にどのようにクロール・インデックスされるかを確認するために作成したテストサイトです。
+このサイトは静的WebサイトがGoogleおよびBingにどのようにクロールされるかを確認するための検証サイトです。
 
-掲載されている情報には技術的な価値はなく、検索エンジンの動作確認のみを目的としています。
+GitHub Pages以外の静的ホスティングサービスでも同じHTMLを公開し、検索エンジンの挙動を比較します。
 
-各ページは独立した内容となっており、通常の HTML リンクで相互に接続されています。
+このサイトに掲載されている情報は検索エンジンの検証のみを目的としています。
 
 ## ページ一覧
 
 - [Jekyllについて](page1/)
 - [GitHub Pagesについて](page2)
-- [88VAのSASIディスクイメージについて](page3/sasi_image.md)
+- [SASIディスクイメージについて](page3/sasi_image.md)
