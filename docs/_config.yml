@@ -45,3 +45,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  -
+    scope:
+      path: google467eb7b25acc7487.html
+    values:
+      sitemap: false
