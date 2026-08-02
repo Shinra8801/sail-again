@@ -3,7 +3,7 @@
 
 @import "jekyll-theme-primer";
 
-.container-lg > h1:first-of-type {
+.container-lg > div.site-name {
     font-size: 1.2rem;
     text-align: right;
 }
