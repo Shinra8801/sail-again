@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "漕ぎだせアゲイン"
+title: "静的ホスティングIndex検証"
 #email: your-email@example.com
 description: >
-  レトロPCに関する最近の情報公開手段について書き記しています。
+  GitHub Pages以外の静的ホスティングサービスでも同じHTMLを公開し、検索エンジンの挙動を比較します。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sail-again-cf.pages.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shinra8801
 #github_username:  jekyll
 
